@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\bin\Debug\mathclass.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\bin\Debug\mathclass.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\bin\Debug\mathclass.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\obj\Debug\mathclass.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\obj\Debug\mathclass.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\mathclass\mathclass\obj\Debug\mathclass.pdb

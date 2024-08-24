@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\bin\Debug\calculaterUsingClass.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\bin\Debug\calculaterUsingClass.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\bin\Debug\calculaterUsingClass.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\obj\Debug\calculaterUsingClass.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\obj\Debug\calculaterUsingClass.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# oops\calculaterUsingClass\calculaterUsingClass\obj\Debug\calculaterUsingClass.pdb

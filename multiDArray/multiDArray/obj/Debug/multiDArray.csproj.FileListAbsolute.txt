@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\multiDArray\multiDArray\bin\Debug\multiDArray.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\multiDArray\multiDArray\bin\Debug\multiDArray.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\multiDArray\multiDArray\bin\Debug\multiDArray.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\multiDArray\multiDArray\obj\Debug\multiDArray.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\multiDArray\multiDArray\obj\Debug\multiDArray.pdb

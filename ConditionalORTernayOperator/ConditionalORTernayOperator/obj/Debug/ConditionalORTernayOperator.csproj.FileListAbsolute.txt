@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\bin\Debug\ConditionalORTernayOperator.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\bin\Debug\ConditionalORTernayOperator.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\bin\Debug\ConditionalORTernayOperator.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\obj\Debug\ConditionalORTernayOperator.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\obj\Debug\ConditionalORTernayOperator.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# function\ConditionalORTernayOperator\ConditionalORTernayOperator\obj\Debug\ConditionalORTernayOperator.pdb
